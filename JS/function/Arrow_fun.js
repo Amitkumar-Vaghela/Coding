@@ -3,3 +3,9 @@ const greet = () => {
 };
 
 greet();  // Output: Hello, World!
+
+
+// ex 2
+var add = (a,b) =>  a+b;   // logic function
+var result = add(123 , 7);
+ console.log(result);  // output : 130
